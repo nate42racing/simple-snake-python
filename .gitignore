@@ -1,3 +1,6 @@
+# high score file
+high_scores.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
