@@ -8,8 +8,6 @@ The "snake" is built from an array of pygame rect objects that basically just co
 
 ## next steps
 - better food spawner to not slow down at long snake
-- high score tracker
 - smoother snake
 - faster input to render
-- background and border
 - Improved logical updates regardless of render
